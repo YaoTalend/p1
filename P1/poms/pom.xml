@@ -10,6 +10,8 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>jobs/joblets/jcloudlog_0.1</module>
+    <module>jobs/process/Examples/sayhello_copy_0.1</module>
   </modules>
   <properties>
     <talend.project.name>P1</talend.project.name>
